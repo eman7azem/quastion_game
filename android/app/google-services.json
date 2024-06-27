@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621357423626",
+    "project_id": "question-game-dcb5f",
+    "storage_bucket": "question-game-dcb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621357423626:android:5e1e6083c1f1e8859013f3",
+        "android_client_info": {
+          "package_name": "com.example.quastions_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44vmg5KJCI3jbCsSqfxRLdfkaC5Mgdz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
